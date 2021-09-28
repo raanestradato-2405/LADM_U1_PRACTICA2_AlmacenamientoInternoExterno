@@ -9,4 +9,5 @@
     <color name="white">#FFFFFFFF</color>
     <color name="transparente">#00FFFFFF</color>
     <color name="fondoOpaco">#34DD1E5F</color>
+    <color name="fondoazul">#4CA0FA</color>
 </resources>
